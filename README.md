@@ -246,7 +246,7 @@ Employee-Attrition-Analytics-Dashboard/
 
 **Rajan Kumar**
 
-Aspiring Data Analyst | Power BI Developer
+Aspiring Data Analyst 
 
 🔗 LinkedIn: https://linkedin.com/in/rajan-kumar263
 
